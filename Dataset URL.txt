@@ -1,0 +1,2 @@
+https://www.kaggle.com/c/job-recommendation
+We use the jobs in splitjobs/jobs.tsv to do experiments.
